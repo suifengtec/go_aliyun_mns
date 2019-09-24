@@ -1,8 +1,18 @@
-# go_aliyun_mns
-go_aliyun_mns
+# 阿里云 MNS 的 Golang 封装
 
 
-## 阿里云 MNS 的 Golang 封装
+## 拉过来
+
+```bash
+
+go get -u github.com/suifengtec/go_aliyun_mns/mns
+
+```
+
+## 使用
+
+
+
 
 ```go
 
