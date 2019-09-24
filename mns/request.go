@@ -3,7 +3,6 @@ package mns
 import (
 	"bytes"
 	"encoding/xml"
-	"fmt"
 	"io"
 	"log"
 	"net/http"
@@ -12,10 +11,6 @@ import (
 	"time"
 	//"github.com/denverdino/aliyungo/util"
 )
-
-/*=========https://github.com/denverdino/aliyungo/blob/master/util/util.go=========*/
-
-/*=========//https://github.com/denverdino/aliyungo/blob/master/util/util.go=========*/
 
 type request struct {
 	endpoint    string
