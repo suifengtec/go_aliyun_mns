@@ -1,5 +1,9 @@
 package mns
 
+import (
+	"fmt"
+)
+
 //Queue struct
 type Queue struct {
 	*Client
